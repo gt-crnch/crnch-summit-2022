@@ -8,6 +8,9 @@ We note that in some cases, we have not linked posters due to work being under s
 | Siri Narla   (F2021 fellowship winner) | "Ultra-low Power Magnetoelectric Random Access Memory for TCAM Application" |   Dr. Azad J. Naeemi | ECE | |
 | Prasanna V. Ravindran (F2021 fellowship winner) | "Quantum Annealing In Ferroelectronic Platforms" |  Dr. Asif Islam Khan |  ECE | [NA] [NA] [NA] |
 | Samantha Lubaba Noor  (S2021 fellowship winner) | "Benchmarking of Plasmonic MIM and MSM Waveguide Couplers for an Integrated Computing System" | Dr. Azad Naeemi | ECE | [Poster] [Abstract](#sn) [Lightning Talk] |
+| Elton Pinto | "Implementing Quantum Verification of Matrix Products" | Drs. Tom Conte, Jeffrey Young | SCS | [Poster] [Abstract](#ep) [Lightning Talk] |
+
+
 | Zishen Wan | "An Energy-Efficient and Runtime-Reconfigurable FPGA-Based Accelerator for Robotic Localization Systems" | Dr. Arijit Raychowdury | ECE | [Abstract](#zw) [NA] [NA] |
 
 ## Lightning Talk Playlist
@@ -30,6 +33,10 @@ From the detailed numerical analysis and considering the trade-offs among coupli
 capacitance, system noise, and bandwidth, a holistic metric is introduced to quantify and compare
 the system-level performance of the couplers, and a novel coupling scheme is identified as the
 most attractive choice for coupling the two WGs.
+
+<a id="ep">**Elton Pinto - "Implementing Quantum Verification of Matrix Products"**</a>
+
+This study implements the Quantum Verification of Matrix Products (QVMP) using the Qiskit framework. We evaluate this implementation using gate count, qubit count, circuit depth, and transpilation time metrics. We also analyze the oracle authoring capabilities of Qiskit.
 
 <a id="zw">**Zishen Wan - "An Energy-Efficient and Runtime-Reconfigurable FPGA-Based Accelerator for Robotic Localization Systems"**</a>
 
