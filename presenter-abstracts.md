@@ -3,8 +3,7 @@
 
 ## Kunle Olukoton - _The Future of AI Systems - Let the Data Flow!_
 
-<a id="ko_abstract">### Abstract ###</a> 
-As the benefits from Moore’s Law diminish, future computing performance improvements must
+<a id="koabstract">**Abstract:**</a> As the benefits from Moore’s Law diminish, future computing performance improvements must
 rely on specialized accelerators for applications in high performance computing, artificial
 intelligence, and traditional data processing. These challenging applications are characterized
 by terabyte sized models, data sparsity and irregular control flow. In this talk, we explain how
@@ -16,8 +15,7 @@ database and HPC applications with irregular control and data flow using a new e
 model called Dataflow threads.
 
 
-<a id="ko_bio">### Biography ###</a> 
-Kunle Olukotun is the Cadence Design Professor of Electrical Engineering and
+<a id="kobio">**Biography:**</a> Kunle Olukotun is the Cadence Design Professor of Electrical Engineering and
 Computer Science at Stanford University. Olukotun is a pioneer in multi-core processor
 design and the leader of the Stanford Hydra chip multiprocessor (CMP) research
 project.
