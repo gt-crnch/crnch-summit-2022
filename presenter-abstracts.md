@@ -63,7 +63,7 @@ algorithms, as well as reconfigurable and high-efficiency computing and electron
 
 <a id="ag_bio"></a> **Bio:** Ada Gavrilovska is Associate Professor in the School of Computer Science at Georgia Tech. She directs the Kernel research group, which focuses on designing systems for emerging technologies, and on developing new systems software solutions in response to new hardware, applications, and use cases. Her recent research is driven by two major trends rooted in the exponential growth in demand for data and for ever‐faster insights from such data – the proliferation of new memory system designs, and the shift to edge computing. Gavrilovska’s research is supported by the NSF, the Department of Energy, the SRC/DARPA JUMP program, and by multiple industry awards. She has served as program chair for ACM HPDC’22, USENIX ATC’20, and as an Associate Editor for the IEEE Transactions on Cloud Computing. 
 
-## <a id="si"> Subramanian "Subu" Iyer - _Chips, dies, chiplets and dielets and heterogeneous integration (of course!)_
+## <a id="si"> Subramanian "Subu" Iyer - _Chips, Dies, Chiplets and Dielets and Other Crunchy stuff_
 
 <img alt="Subu Iyer Headshot" src="https://github.com/gt-crnch/crnch-summit-2022/blob/main/presenter_slides/Thursday_02_03_22/headshots/si_headshot.jpg" width="200" height="200">
   
