@@ -8,10 +8,21 @@ We note that in some cases, we have not linked posters due to work being under s
 | Siri Narla   (F2021 fellowship winner) | "Ultra-low Power Magnetoelectric Random Access Memory for TCAM Application" |   Dr. Azad J. Naeemi | ECE | [Poster] [Abstract](#sn) [Lightning Talk] |
 | Prasanna V. Ravindran (F2021 fellowship winner) | "Quantum Annealing In Ferroelectronic Platforms" |  Dr. Asif Islam Khan |  ECE | [NA] [NA] [NA] |
 | Samantha Lubaba Noor  (S2021 fellowship winner) | "Benchmarking of Plasmonic MIM and MSM Waveguide Couplers for an Integrated Computing System" | Dr. Azad Naeemi | ECE | [Poster](https://github.com/gt-crnch/crnch-summit-2022/blob/main/student_poster_session/student_posters/Samantha_Noor_CF_CRNCH_Summit22_Poster.pdf) [Abstract](#san) [Lightning Talk] |
-| Elton Pinto | "Implementing Quantum Verification of Matrix Products" | Drs. Tom Conte, Jeffrey Young | SCS | [Poster](https://github.com/gt-crnch/crnch-summit-2022/blob/main/student_poster_session/student_posters/Elton_Pinto_CRNCH_Summit22_Poster.pdf) [Abstract](#ep) [Lightning Talk] |
+| Stefan Abi-Karam | "" |  |  | [Poster]() [Abstract](#sakm) [Lightning Talk] |
+| Austin Adams | "" |  |  | [Poster]() [Abstract](#aa) [Lightning Talk] |
+| Spencer Bowles | "" |  |  | [Poster]() [Abstract](#sb) [Lightning Talk] |
+| Gibran Essa | "" |  |  | [Poster]() [Abstract](#ge) [Lightning Talk] |
+| Pulkit Gupta | "" |  |  | [Poster]() [Abstract](#ge) [Lightning Talk] |
+| Hang Hu | "" |  |  | [Poster]() [Abstract](#ge) [Lightning Talk] |
 | Vincent Huang, Patrick Lavin | "Accurately Modeling Sparse Accesses for Benchmarking and Architectural Simulation" | Drs. Rich Vuduc, Jeffrey Young | CSE/SCS | [Poster](https://github.com/gt-crnch/crnch-summit-2022/blob/main/student_poster_session/student_posters/Vincent_Huang_CRNCH_Summit22_Poster.pdf) [Abstract](#vh) [Lightning Talk] |
-
+| Sam Jijina | "" |  |  | [Poster]() [Abstract](#ge) [Lightning Talk] |
+| Aksay Kamath | "" |  |  | [Poster]() [Abstract](#ge) [Lightning Talk] |
+| Madison Manley | "" |  |  | [Poster]() [Abstract](#ge) [Lightning Talk] |
+| Misun Park | "" |  |  | [Poster]() [Abstract](#ge) [Lightning Talk] |
+| Elton Pinto | "Implementing Quantum Verification of Matrix Products" | Drs. Tom Conte, Jeffrey Young | SCS | [Poster](https://github.com/gt-crnch/crnch-summit-2022/blob/main/student_poster_session/student_posters/Elton_Pinto_CRNCH_Summit22_Poster.pdf) [Abstract](#ep) [Lightning Talk] |
+| Sreejith Rajan | "" |  |  | [Poster]() [Abstract](#ge) [Lightning Talk] |
 | Zishen Wan | "An Energy-Efficient and Runtime-Reconfigurable FPGA-Based Accelerator for Robotic Localization Systems" | Dr. Arijit Raychowdury | ECE | [Abstract](#zw) [NA] [NA] |
+| Marrina Vemmou | "" |  |  | [Poster]() [Abstract](#ge) [Lightning Talk] |
 
 ## Lightning Talk Playlist
 [All Lightning Talks - Playlist](https://mediaspace.gatech.edu/playlist/dedicated/1_cuzeaxps/)
