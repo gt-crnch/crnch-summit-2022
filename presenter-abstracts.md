@@ -3,7 +3,7 @@
 
 ## Kunle Olukoton - _The Future of AI Systems - Let the Data Flow!_
 
-<a id="koabstract">**Abstract:**</a> As the benefits from Moore’s Law diminish, future computing performance improvements must
+<a id="koabstract"></a>**Abstract:** As the benefits from Moore’s Law diminish, future computing performance improvements must
 rely on specialized accelerators for applications in high performance computing, artificial
 intelligence, and traditional data processing. These challenging applications are characterized
 by terabyte sized models, data sparsity and irregular control flow. In this talk, we explain how
