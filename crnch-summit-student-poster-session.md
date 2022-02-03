@@ -13,16 +13,16 @@ We note that in some cases, we have not linked posters due to work being under s
 | Spencer Bowles, Mourad Musallam | "Using LASSO to Optimize SNN Decoders on Mixed-Signal Harware" | Dr. Jeffrey Young | ECE | [Poster](https://github.com/gt-crnch/crnch-summit-2022/blob/main/student_poster_session/student_posters/Spencer_Bowles_CRNCH_Summit22_Poster.pdf) [Abstract](#sb) [Lightning Talk](https://mediaspace.gatech.edu/media/Spencer+Bowles+-+Using+LASSO+to+Optimize+SNN+Decoders+on+Mixed-Signal+Harware/1_l40dncyw) |
 | Gibran Essa | "A Library for Automated Adiabatic Circuit Generation" | Drs. Tom Conte, Jeffrey Young | SCS | [Poster](https://github.com/gt-crnch/crnch-summit-2022/blob/main/student_poster_session/student_posters/Gibran_Essa_et_al_CRNCH_Summit22_Poster.pdf) [Abstract](#ge) [Lightning Talk](https://mediaspace.gatech.edu/media/Gibran+Essa+-+A+Library+for+Automated+Adiabatic+Circuit+Generation/1_zd7geaxj) |
 | Pulkit Gupta, Jack Lafiandra | "Shallow Online Neural Branch Prediction" | Dr. Tom Conte | ECE | [Poster](https://github.com/gt-crnch/crnch-summit-2022/blob/main/student_poster_session/student_posters/Pulkit_Gupta_CRNCH_Summit22_Poster.pdf) [Abstract](#pg) [Lightning Talk](https://mediaspace.gatech.edu/playlist/dedicated/1_cuzeaxps/1_8v3yhwlh) |
-| Hang Hu | "" |  |  | [Poster]() [Abstract](#ge) [Lightning Talk] |
+| Hang Hu, Euna Kim | "Direction-Optimized Parallel BFS in PIM" | Dr. Hyesoon Kim  | SCS | [Poster](https://github.com/gt-crnch/crnch-summit-2022/blob/main/student_poster_session/student_posters/Hang_Hu_et_al_CRNCH_Summit22_Poster.pdf) [Abstract](#hh) [Lightning Talk](https://mediaspace.gatech.edu/media/Hang+Hu+-+Direction-Optimized+Parallel+BFS+in+PIM/1_22tiembs) |
 | Vincent Huang, Patrick Lavin | "Accurately Modeling Sparse Accesses for Benchmarking and Architectural Simulation" | Drs. Rich Vuduc, Jeffrey Young | CSE/SCS | [Poster](https://github.com/gt-crnch/crnch-summit-2022/blob/main/student_poster_session/student_posters/Vincent_Huang_CRNCH_Summit22_Poster.pdf) [Abstract](#vh) [Lightning Talk] |
-| Sam Jijina | "" |  |  | [Poster]() [Abstract](#ge) [Lightning Talk] |
-| Aksay Kamath | "" |  |  | [Poster]() [Abstract](#ge) [Lightning Talk] |
+| Sam Jijina | "UAV Workload Characterization and Analysis" | Dr. Hyesoon Kim | SCS | [Poster](https://github.com/gt-crnch/crnch-summit-2022/blob/main/student_poster_session/student_posters/Sam_Jijina_CRNCH_Summit22_Poster.pdf) [Abstract](#sj) [Lightning Talk](https://mediaspace.gatech.edu/media/Sam+Jijina+-+UAV+Workload+Characterization+and+Analysis/1_qlhvoily) |
+| Aksay Kamath | "Exploiting HBM for CNN Acceleration on FPGAs" | Dr. Callie Hao | ECE | [Poster](https://github.com/gt-crnch/crnch-summit-2022/blob/main/student_poster_session/student_posters/Akshay_Kamath_CRNCH_Summit22_Poster.pdf) [Abstract](#ak) [Lightning Talk](https://mediaspace.gatech.edu/media/Akshay+Kamath+-+Exploiting+HBM+for+CNN+Acceleration+on+FPGAs/1_xwfk398f) |
 | Madison Manley | "" |  |  | [Poster]() [Abstract](#ge) [Lightning Talk] |
 | Misun Park | "" |  |  | [Poster]() [Abstract](#ge) [Lightning Talk] |
 | Elton Pinto | "Implementing Quantum Verification of Matrix Products" | Drs. Tom Conte, Jeffrey Young | SCS | [Poster](https://github.com/gt-crnch/crnch-summit-2022/blob/main/student_poster_session/student_posters/Elton_Pinto_CRNCH_Summit22_Poster.pdf) [Abstract](#ep) [Lightning Talk] |
 | Sreejith Rajan | "" |  |  | [Poster]() [Abstract](#ge) [Lightning Talk] |
-| Zishen Wan | "An Energy-Efficient and Runtime-Reconfigurable FPGA-Based Accelerator for Robotic Localization Systems" | Dr. Arijit Raychowdury | ECE | [Abstract](#zw) [NA] [NA] |
 | Marrina Vemmou | "" |  |  | [Poster]() [Abstract](#ge) [Lightning Talk] |
+| Zishen Wan | "An Energy-Efficient and Runtime-Reconfigurable FPGA-Based Accelerator for Robotic Localization Systems" | Dr. Arijit Raychowdury | ECE | [Abstract](#zw) [NA] [NA] |
 
 ## Lightning Talk Playlist
 [All Lightning Talks - Playlist](https://mediaspace.gatech.edu/playlist/dedicated/1_cuzeaxps/)
@@ -71,13 +71,24 @@ This poster presents an introduction to the concepts behind adiabatic computing 
 
 The Shallow Online Neural (SON) predictor makes use of a shallow neural network that is trained in an online fashion to predict branch outcomes. By utilizing a network with a hidden layer and a few activation functions, the predictor is able to extract features for branch prediction using the global and local histories. The predictor also takes advantage of a small tournament to decide between the neural prediction and another predictor. The SON predictor is able to extract branch relationships that cannot be discovered by TAGE or the Hashed Perceptron Predictor. While not as performant as the BranchNet Predictor, the SON predictor is physically realizable and nears the performance. This work also explores key architectural changes that can be applied to hardware implementations through the use of quantized fixed point values in place of floating point values while maintaining reasonable accuracy. In certain workloads, the SON predictor outperforms the state of the art and it is shown that with improvements to the tournament mechanism, the SON predictor has a much higher theoretical prediction accuracy than state of the art.
 
-<a id="ep">**Elton Pinto - "Implementing Quantum Verification of Matrix Products"**</a>
+<a id="hh">**Hang Hu, Euna Kim - "Direction-Optimized Parallel BFS in PIM"</a>
 
-This study implements the Quantum Verification of Matrix Products (QVMP) using the Qiskit framework. We evaluate this implementation using gate count, qubit count, circuit depth, and transpilation time metrics. We also analyze the oracle authoring capabilities of Qiskit.
+Our project is **Direction-Optimized Parallel BFS in PIM**. Our motivation comes from that when the frontier is large, there exists an opportunity to perform the breadth-first search more efficiently by searching in the reverse direction. Based on this motivation, we implemented the top-down and bottom-up parallel BFS in PIM using the distributed model /and made several optimization of partitioning methods, MPI messages and so on. We evaluated this BFS on social network graphs. The result shows that /both top-down and bottom-up BFS have a high speedup /and the ideal hybrid one's speedup can be up to 1.5 or even more compared to top-down. But our work is still ongoing. We aim to further optimize this algorithm by avoiding all-to-all communication, and also aim to extend this algorithm to process dynamic graphs.
 
 <a id="vh">**Vincent Huang - "Accurately Modeling Sparse Accesses for Benchmarking and Architectural Simulation"**</a>
 
 We typically generate large memory traces to try and replicate useful memory behaviors from applications. With our current workflow, we might use a tool like DynamoRio or Pin to generate memory traces and then feed those into a simulator. In our desired workflow, we would like to parse memory traces in an online fashion to generate representative sparse access patterns. These patterns can then be used as inputs to architectural simulators (via tools like SST's Miranda trace generator) or sparse access benchmark suites like our Spatter benchmark.This tool attempts to provide the means to parse applications in a reasonable amount of time and then provide reusable patterns that can be used to investigate and validate performance for a specific computer architecture.
+
+<a id="sj">**Sam Jijina - "UAV Workload Characterization and Analysis"**</a>
+
+With fully autonomous flight capabilities coupled with specific applications, unmanned aerial vehicles (UAV) are becoming prevalent solutions in several commercial and research contexts. However, autonomous drones must operate within constraints and design considerations that are quite different from any other compute-based agent. At any given time, a UAV must arbitrate among its limited compute, energy, and electromechanical resources. These tradeoffs are exacerbated when the workloads widely vary in compute complexity and performance. To better gain an understanding and decrease this knowledge gap, we are exploring workload characterizations for UAVs regarding the various subsystems on these platforms. We build off our previous work in which we presented a design-space exploration of autonomous drone systems and quantified how we can provide a productive solution and add the various performance metrics and experiment data we have conducted which led to the evaluation our UAV platform.
+
+<a id="ak">**Akshay Kamath - "Exploiting HBM for CNN Acceleration on FPGAs"**</a>
+No abstract provided.
+
+<a id="ep">**Elton Pinto - "Implementing Quantum Verification of Matrix Products"**</a>
+
+This study implements the Quantum Verification of Matrix Products (QVMP) using the Qiskit framework. We evaluate this implementation using gate count, qubit count, circuit depth, and transpilation time metrics. We also analyze the oracle authoring capabilities of Qiskit.
 
 <a id="zw">**Zishen Wan - "An Energy-Efficient and Runtime-Reconfigurable FPGA-Based Accelerator for Robotic Localization Systems"**</a>
 
