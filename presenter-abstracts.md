@@ -88,7 +88,7 @@ In this presentation we will cover the landscape on the state of the art for HI 
 some new technologies being developed at the Packaging Research Center @ Georgia Tech
 in the area of high performance computing.
 
-<a id="ms_ab"></a>**Bio:** Madhavan Swaminathan is the John Pippin Chair in Microsystems
+<a id="ms_bio"></a>**Bio:** Madhavan Swaminathan is the John Pippin Chair in Microsystems
 Packaging & Electromagnetics in the School of Electrical and
 Computer Engineering (ECE), Professor in ECE with a joint
 appointment in the School of Materials Science and Engineering
