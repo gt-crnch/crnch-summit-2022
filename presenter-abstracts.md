@@ -1,7 +1,7 @@
 # Thursday, February 3rd, 2022
 
 
-## Kunle Olukoton - _The Future of AI Systems - Let the Data Flow!_
+<a id="ko"></a>## Kunle Olukoton - _The Future of AI Systems - Let the Data Flow!_
 
 <a id="koabstract"></a>**Abstract:** As the benefits from Moore’s Law diminish, future computing performance improvements must
 rely on specialized accelerators for applications in high performance computing, artificial
@@ -29,7 +29,7 @@ Oracle’s SPARC-based servers.
 
 Olukotun is the Director of the Pervasive Parallel Lab and a member of the Data Analytics for What’s Next (DAWN) Lab, developing infrastructure for usable machine learning. Olukotun is also an ACM Fellow and IEEE Fellow for contributions to multiprocessors on a chip and multi-threaded processor design. He recently won the IEEE Computer Society’s Harry H. Goode Memorial Award and was also elected to the National Academy of Engineering. Kunle received his Ph.D. in Computer Engineering from The University of Michigan.
 
-## Roberto Gioiosa - _Re‐Imagining HW/SW Co‐Design: a Flexible, Composable, and Agile approach_
+<a id="rg"></a>## Roberto Gioiosa - _Re‐Imagining HW/SW Co‐Design: a Flexible, Composable, and Agile approach_
 
 <a id="gioiosa_abstract"></a>**Abstract:** The need of processing and analyzing extremely large amount of data with real‐time and power/energy constraints has motivated the development of many highly‐specialized and energy  efficient  architectural  concepts.  This  trend  is  evident  in  embedded  systems,  such  as  mobile  phones  or  smart  sensors,  where  systems  contain  a  myriad  of  small,  specialized  ASIC processors. Large‐scale, HPC systems have also embraced heterogeneous devices to speed up computation while maintaining a strict power budget. Looking forward, one can imagine that more application‐specific accelerators will be incorporated into SoC designs, which will contain general‐purpose,  programmable  processing  elements,  such  as  CPU  and  GPU  cores,  fixed,  application‐specific  accelerators  (e.g.,  FFT  or  GEMM),  and  semi‐programmable  CGRA  devices. Designing such increasingly complex device become and incredibly difficult task.  
 
