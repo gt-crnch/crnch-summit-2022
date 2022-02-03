@@ -5,7 +5,7 @@ We note that in some cases, we have not linked posters due to work being under s
 
 | Student Presenter, Student Authors | Poster Title | Advisor(s) | GT Department | [Poster] [Abstract] [Lightning Talk] |
 | ---------------------------------- | ------------ | ---------- | -------------|-------------------|
-| Siri Narla   (F2021 fellowship winner) | "Ultra-low Power Magnetoelectric Random Access Memory for TCAM Application" |   Dr. Azad J. Naeemi | ECE | [Poster] [Abstract](#sn) [Lightning Talk] |
+| Siri Narla   (F2021 fellowship winner) | "Ultra-low Power Magnetoelectric Random Access Memory for TCAM Application" |   Dr. Azad J. Naeemi | ECE | [Poster]() [Abstract](#sn) [Lightning Talk](https://mediaspace.gatech.edu/media/Siri+Narla+-+Ultra-low+Power+Magnetoelectric+Random+Access+Memory+for+TCAM+Application/1_mxkw8d4o) |
 | Prasanna V. Ravindran (F2021 fellowship winner) | "Quantum Annealing In Ferroelectronic Platforms" |  Dr. Asif Islam Khan |  ECE | [NA] [NA] [NA] |
 | Samantha Lubaba Noor  (S2021 fellowship winner) | "Benchmarking of Plasmonic MIM and MSM Waveguide Couplers for an Integrated Computing System" | Dr. Azad Naeemi | ECE | [Poster](https://github.com/gt-crnch/crnch-summit-2022/blob/main/student_poster_session/student_posters/Samantha_Noor_CF_CRNCH_Summit22_Poster.pdf) [Abstract](#san) [Lightning Talk] |
 | Stefan Abi-Karam | "" |  |  | [Poster]() [Abstract](#sakm) [Lightning Talk] |
