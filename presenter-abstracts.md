@@ -3,6 +3,8 @@
 
 ## <a id="ko">Kunle Olukoton - _The Future of AI Systems - Let the Data Flow!_</a>
 
+![image](https://user-images.githubusercontent.com/5454098/152280976-651f7dd3-3ee8-42c6-8acd-791e5b9c3294.png)
+
 <a id="ko_ab"></a>**Abstract:** As the benefits from Moore’s Law diminish, future computing performance improvements must
 rely on specialized accelerators for applications in high performance computing, artificial
 intelligence, and traditional data processing. These challenging applications are characterized
@@ -43,6 +45,8 @@ Currently, his projects include the development of system software for extremely
 
 ## <a id="ch"> Callie Ho - _GenGNN: A Generic FPGA Framework for Graph Neural Network Acceleration_</a>
 
+![image](https://user-images.githubusercontent.com/5454098/152281033-7e04e1b5-8c6c-4297-915b-d7d25f6213f5.png)
+
 <a id="ch_ab"></a>**Abstract:** Graph neural networks (GNNs) have recently exploded in popularity thanks to their broad applicability to ubiquitous graph‐related problems such as quantum chemistry, drug discovery, and high energy physics. However, meeting demand for novel GNN models and fast inference simultaneously is challenging because of the gap between the difficulty in developing efficient FPGA accelerators and the rapid pace of the creation of new GNN models. Prior art focuses on the acceleration of specific classes of GNNs but lacks the generality to work across existing models or to extend to new and emerging GNN models. In this work, we propose a generic GNN acceleration framework using High‐Level Synthesis (HLS), named GenGNN, with two‐fold goals. First, we aim to deliver ultra‐fast GNN inference without any graph pre‐processing for real‐time requirements. Second, we aim to support a diverse set of GNN models with the extensibility to flexibly adapt to new models. The framework features an optimized message‐passing structure applicable to all models, combined with a rich library of model‐specific components. We verify our implementation on‐board on the Xilinx Alveo U50 FPGA and observe a speed‐up of up to 25x against CPU (6226R) baseline and 13x against GPU (A6000) baseline. 
 
 <a id="ch_bio"></a> **Bio:** Cong (Callie) Hao is an assistant professor in ECE at Georgia Tech, where she currently holds the Sutterfield Family Early Career Professorship. She was a postdoctoral fellow in the School from 2020-2021 and also worked as a postdoctoral researcher in ECE at the University of Illinois at Urbana-Champaign from 2018-2020. She received the Ph.D. degree in Electrical Engineering from Waseda University in 2017, and the M.S. and B.S. degrees in Computer Science
@@ -56,12 +60,17 @@ algorithms, as well as reconfigurable and high-efficiency computing and electron
 <a id="ag_bio"></a> **Bio:** Ada Gavrilovska is Associate Professor in the School of Computer Science at Georgia Tech. She directs the Kernel research group, which focuses on designing systems for emerging technologies, and on developing new systems software solutions in response to new hardware, applications, and use cases. Her recent research is driven by two major trends rooted in the exponential growth in demand for data and for ever‐faster insights from such data – the proliferation of new memory system designs, and the shift to edge computing. Gavrilovska’s research is supported by the NSF, the Department of Energy, the SRC/DARPA JUMP program, and by multiple industry awards. She has served as program chair for ACM HPDC’22, USENIX ATC’20, and as an Associate Editor for the IEEE Transactions on Cloud Computing. 
 
 ## <a id="si"> Subramanian S "Subu" Iyer - _Chips, dies, chiplets and dielets and heterogeneous integration (of course!)_
+
+![image](https://user-images.githubusercontent.com/5454098/152281111-c7ef357f-aa49-47a8-8495-3a4baabd2f47.png)
+
   
 <a id="si_ab"></a>**Abstract:** Packaging is undergoing a major paradigm shift and promises to take up the lag caused by the slowing down of CMOS scaling. In this paper, we examine these shifts that have been driven by the scaling of key packaging metrics such as bump pitch, trace pitch, inter-die spacing and alignment. The goal of advanced packaging is to enable the same benefits that Moore/Dennard scaling has accomplished for CMOS viz. density, performance, power, and cost. The vehicles that advanced packaging employs are somewhat different: dielets/chiplets, advanced assembly techniques, simplified inter-chip communication protocols and cost optimization via the use of optimized heterogeneous technologies. Another important aspect of advanced packaging is the adoption and adaptation of silicon technology methods to packaging. In this talk we will discuss these technologies and some instantiation examples that we have developed at UCLA. 
   
 <a id="si_bio"></a> **Bio:** Subramanian S. Iyer (Subu) is Distinguished Professor and holds the Charles P. Reames Endowed Chair in the Electrical  Engineering  Department  and  a  joint  appointment  in  the  Materials  Science  and  Engineering  Department  at  the  University  of  California  at  Los  Angeles.  He  is  Director  of  the  Center  for  Heterogeneous Integration  and  Performance  Scaling  (UCLA  CHIPS).  Prior  to  that  he  was  an  IBM  Fellow.  His  key  technical  contributions  have  been  the  development  of  the  world’s  first  SiGe  base  HBT,  Salicide,  electrical  fuses, embedded  DRAM and 45nm technology node used to make the first generation of truly low power portable  devices as well as the first commercial interposer and 3D integrated products. He also was among the first to commercialize bonded SOI for CMOS applications through a start‐up called SiBond LLC. More recently, he has been exploring new packaging paradigms and device innovations that may enable wafer‐scale architectures, in‐memory analog compute and medical engineering applications. He has published over 300 papers and holds over 75 patents. He has received several outstanding technical achievements and corporate awards at IBM. He is an  IEEE Fellow, an APS Fellow, an iMAPS Fellow and a Distinguished Lecturer of the IEEE EDS and EPS and a  member of the Board of Governors of IEEE EPS. He is also a Fellow of the National Academy of Inventors. He is a Distinguished Alumnus of IIT Bombay and received the IEEE Daniel Noble Medal for emerging technologies in 2012 and the 2020 iMAPS Daniel C. Hughes Jr Memorial award and the iMAPS distinguished educator award in 2021. 
 
 ## <a id="ms"> Madhavan Swaminathan - _CDielet Integration and High Performance Computing_
+
+![image](https://user-images.githubusercontent.com/5454098/152281064-9f3a6702-919b-4162-9c2a-10e4d56035d0.png)
   
 <a id="ms_ab"></a>**Abstract:** With a move into the post Moore era, the semiconductor industry is looking into
 heterogeneous integration (HI) as a means for achieving system scaling. This involves
