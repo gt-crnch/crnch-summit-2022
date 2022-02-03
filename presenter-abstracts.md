@@ -61,7 +61,7 @@ algorithms, as well as reconfigurable and high-efficiency computing and electron
 
 ## <a id="si"> Subramanian S "Subu" Iyer - _Chips, dies, chiplets and dielets and heterogeneous integration (of course!)_
 
-![image](https://user-images.githubusercontent.com/5454098/152281111-c7ef357f-aa49-47a8-8495-3a4baabd2f47.png)
+![image](https://user-images.githubusercontent.com/5454098/152281146-65fe0af3-6158-4325-82a9-3a17680940df.png)
 
   
 <a id="si_ab"></a>**Abstract:** Packaging is undergoing a major paradigm shift and promises to take up the lag caused by the slowing down of CMOS scaling. In this paper, we examine these shifts that have been driven by the scaling of key packaging metrics such as bump pitch, trace pitch, inter-die spacing and alignment. The goal of advanced packaging is to enable the same benefits that Moore/Dennard scaling has accomplished for CMOS viz. density, performance, power, and cost. The vehicles that advanced packaging employs are somewhat different: dielets/chiplets, advanced assembly techniques, simplified inter-chip communication protocols and cost optimization via the use of optimized heterogeneous technologies. Another important aspect of advanced packaging is the adoption and adaptation of silicon technology methods to packaging. In this talk we will discuss these technologies and some instantiation examples that we have developed at UCLA. 
@@ -70,7 +70,7 @@ algorithms, as well as reconfigurable and high-efficiency computing and electron
 
 ## <a id="ms"> Madhavan Swaminathan - _CDielet Integration and High Performance Computing_
 
-![image](https://user-images.githubusercontent.com/5454098/152281064-9f3a6702-919b-4162-9c2a-10e4d56035d0.png)
+![image](https://user-images.githubusercontent.com/5454098/152281234-42540394-7b96-4d09-a08d-6fb05240725c.png)
   
 <a id="ms_ab"></a>**Abstract:** With a move into the post Moore era, the semiconductor industry is looking into
 heterogeneous integration (HI) as a means for achieving system scaling. This involves
