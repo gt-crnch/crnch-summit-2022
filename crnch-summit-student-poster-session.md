@@ -5,9 +5,9 @@ We note that in some cases, we have not linked posters due to work being under s
 
 | Student Presenter, Student Authors | Poster Title | Advisor(s) | GT Department | [Poster] [Abstract] [Lightning Talk] |
 | ---------------------------------- | ------------ | ---------- | -------------|-------------------|
-| Siri Narla   (F2021 fellowship winner) | "Ultra-low Power Magnetoelectric Random Access Memory for TCAM Application" |   Dr. Azad J. Naeemi | ECE | [Poster] [Abstract](#ep) [Lightning Talk] |
+| Siri Narla   (F2021 fellowship winner) | "Ultra-low Power Magnetoelectric Random Access Memory for TCAM Application" |   Dr. Azad J. Naeemi | ECE | [Poster] [Abstract](#sn) [Lightning Talk] |
 | Prasanna V. Ravindran (F2021 fellowship winner) | "Quantum Annealing In Ferroelectronic Platforms" |  Dr. Asif Islam Khan |  ECE | [NA] [NA] [NA] |
-| Samantha Lubaba Noor  (S2021 fellowship winner) | "Benchmarking of Plasmonic MIM and MSM Waveguide Couplers for an Integrated Computing System" | Dr. Azad Naeemi | ECE | [Poster](https://github.com/gt-crnch/crnch-summit-2022/blob/main/student_poster_session/student_posters/Samantha_Noor_CF_CRNCH_Summit22_Poster.pdf) [Abstract](#sn) [Lightning Talk] |
+| Samantha Lubaba Noor  (S2021 fellowship winner) | "Benchmarking of Plasmonic MIM and MSM Waveguide Couplers for an Integrated Computing System" | Dr. Azad Naeemi | ECE | [Poster](https://github.com/gt-crnch/crnch-summit-2022/blob/main/student_poster_session/student_posters/Samantha_Noor_CF_CRNCH_Summit22_Poster.pdf) [Abstract](#san) [Lightning Talk] |
 | Elton Pinto | "Implementing Quantum Verification of Matrix Products" | Drs. Tom Conte, Jeffrey Young | SCS | [Poster](https://github.com/gt-crnch/crnch-summit-2022/blob/main/student_poster_session/student_posters/Elton_Pinto_CRNCH_Summit22_Poster.pdf) [Abstract](#ep) [Lightning Talk] |
 | Vincent Huang, Patrick Lavin | "Accurately Modeling Sparse Accesses for Benchmarking and Architectural Simulation" | Drs. Rich Vuduc, Jeffrey Young | CSE/SCS | [Poster](https://github.com/gt-crnch/crnch-summit-2022/blob/main/student_poster_session/student_posters/Vincent_Huang_CRNCH_Summit22_Poster.pdf) [Abstract](#vh) [Lightning Talk] |
 
@@ -20,7 +20,7 @@ We note that in some cases, we have not linked posters due to work being under s
 
 <a id="sn">**Siri Narla - "Benchmarking of Plasmonic MIM and MSM Waveguide Couplers for an Integrated Computing System"**</a>
 
-<a id="sn">**Samantha Noor - "Benchmarking of Plasmonic MIM and MSM Waveguide Couplers for an Integrated Computing System"**</a>
+<a id="san">**Samantha Noor - "Benchmarking of Plasmonic MIM and MSM Waveguide Couplers for an Integrated Computing System"**</a>
 
 Plasmonic metal-insulator-metal waveguide (MIM WG) is a promising building
 block of devices of a plasmonic computing system, and metal-semiconductor-metal (MSM)
