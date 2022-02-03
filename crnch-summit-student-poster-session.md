@@ -5,11 +5,11 @@ We note that in some cases, we have not linked posters due to work being under s
 
 | Student Presenter, Student Authors | Poster Title | Advisor(s) | GT Department | [Poster] [Abstract] [Lightning Talk] |
 | ---------------------------------- | ------------ | ---------- | -------------|-------------------|
-| Siri Narla   (F2021 fellowship winner) | "Ultra-low Power Magnetoelectric Random Access Memory for TCAM Application" |   Dr. Azad J. Naeemi | ECE | |
+| Siri Narla   (F2021 fellowship winner) | "Ultra-low Power Magnetoelectric Random Access Memory for TCAM Application" |   Dr. Azad J. Naeemi | ECE | [Poster] [Abstract](#ep) [Lightning Talk] |
 | Prasanna V. Ravindran (F2021 fellowship winner) | "Quantum Annealing In Ferroelectronic Platforms" |  Dr. Asif Islam Khan |  ECE | [NA] [NA] [NA] |
-| Samantha Lubaba Noor  (S2021 fellowship winner) | "Benchmarking of Plasmonic MIM and MSM Waveguide Couplers for an Integrated Computing System" | Dr. Azad Naeemi | ECE | [Poster] [Abstract](#sn) [Lightning Talk] |
-| Elton Pinto | "Implementing Quantum Verification of Matrix Products" | Drs. Tom Conte, Jeffrey Young | SCS | [Poster] [Abstract](#ep) [Lightning Talk] |
-
+| Samantha Lubaba Noor  (S2021 fellowship winner) | "Benchmarking of Plasmonic MIM and MSM Waveguide Couplers for an Integrated Computing System" | Dr. Azad Naeemi | ECE | [Poster](https://github.com/gt-crnch/crnch-summit-2022/blob/main/student_poster_session/student_posters/Samantha_Noor_CF_CRNCH_Summit22_Poster.pdf) [Abstract](#sn) [Lightning Talk] |
+| Elton Pinto | "Implementing Quantum Verification of Matrix Products" | Drs. Tom Conte, Jeffrey Young | SCS | [Poster](https://github.com/gt-crnch/crnch-summit-2022/blob/main/student_poster_session/student_posters/Elton_Pinto_CRNCH_Summit22_Poster.pdf) [Abstract](#ep) [Lightning Talk] |
+| Vincent Huang, Patrick Lavin | "Accurately Modeling Sparse Accesses for Benchmarking and Architectural Simulation" | Drs. Rich Vuduc, Jeffrey Young | CSE/SCS | [Poster](https://github.com/gt-crnch/crnch-summit-2022/blob/main/student_poster_session/student_posters/Vincent_Huang_CRNCH_Summit22_Poster.pdf) [Abstract](#vh) [Lightning Talk] |
 
 | Zishen Wan | "An Energy-Efficient and Runtime-Reconfigurable FPGA-Based Accelerator for Robotic Localization Systems" | Dr. Arijit Raychowdury | ECE | [Abstract](#zw) [NA] [NA] |
 
@@ -37,6 +37,10 @@ most attractive choice for coupling the two WGs.
 <a id="ep">**Elton Pinto - "Implementing Quantum Verification of Matrix Products"**</a>
 
 This study implements the Quantum Verification of Matrix Products (QVMP) using the Qiskit framework. We evaluate this implementation using gate count, qubit count, circuit depth, and transpilation time metrics. We also analyze the oracle authoring capabilities of Qiskit.
+
+<a id="vh">**Vincent Huang - "Accurately Modeling Sparse Accesses for Benchmarking and Architectural Simulation"**</a>
+
+We typically generate large memory traces to try and replicate useful memory behaviors from applications. With our current workflow, we might use a tool like DynamoRio or Pin to generate memory traces and then feed those into a simulator. In our desired workflow, we would like to parse memory traces in an online fashion to generate representative sparse access patterns. These patterns can then be used as inputs to architectural simulators (via tools like SST's Miranda trace generator) or sparse access benchmark suites like our Spatter benchmark.This tool attempts to provide the means to parse applications in a reasonable amount of time and then provide reusable patterns that can be used to investigate and validate performance for a specific computer architecture.
 
 <a id="zw">**Zishen Wan - "An Energy-Efficient and Runtime-Reconfigurable FPGA-Based Accelerator for Robotic Localization Systems"**</a>
 
