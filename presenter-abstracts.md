@@ -15,7 +15,7 @@ database and HPC applications with irregular control and data flow using a new e
 model called Dataflow threads.
 
 
-<a id="kobio">**Biography:**</a> Kunle Olukotun is the Cadence Design Professor of Electrical Engineering and
+<a id="kobio"></a>**Biography:** Kunle Olukotun is the Cadence Design Professor of Electrical Engineering and
 Computer Science at Stanford University. Olukotun is a pioneer in multi-core processor
 design and the leader of the Stanford Hydra chip multiprocessor (CMP) research
 project.
