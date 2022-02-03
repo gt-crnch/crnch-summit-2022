@@ -10,6 +10,8 @@ We note that in some cases, we have not linked posters due to work being under s
 | Samantha Lubaba Noor  (S2021 fellowship winner) | "Title TBD" | Dr. Azad Naeemi | ECE |  | |
 | Zishen Wan | "An Energy-Efficient and Runtime-Reconfigurable FPGA-Based Accelerator for Robotic Localization Systems" | Dr. Arijit Raychowdury | ECE | [Abstract](#zw) [NA] [NA] |
 
+## Lightning Talk Playlist
+[All Lightning Talks - Playlist](https://mediaspace.gatech.edu/playlist/dedicated/1_cuzeaxps/)
 
 ## Student Abstracts:
 
