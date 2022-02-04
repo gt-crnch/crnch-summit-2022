@@ -123,6 +123,48 @@ Distinguished Lecturer for the IEEE Electromagnetic Compatibility (EMC) society.
 Prof. Yu’s research expertise is on the emerging non-volatile memories for applications such as deep learning accelerator, in-memory computing, 3D integration, and hardware security. 
   
 Among Prof. Yu’s honors, he was a recipient of NSF Faculty Early CAREER Award in 2016, IEEE Electron Devices Society (EDS) Early Career Award in 2017, ACM Special Interests Group on Design Automation (SIGDA) Outstanding New Faculty Award in 2018, Semiconductor Research Corporation (SRC) Young Faculty Award in 2019, IEEE Circuits and Systems Society (CASS) Distinguished Lecturer for 2021-2022, and IEEE Electron Devices Society (EDS) Distinguished Lecturer for 2022-2023, etc. He is a senior member of the IEEE. 
+
+## <a id="ac">Andrew Childs - _Overview of the NSF Quantum Leap Challenge Institute for Robust Quantum Simulation_</a>
+
+<a id="ac_ab"></a>**Abstract:** The Institute for Robust Quantum Simulation will use quantum simulation to gain insight into,
+and thereby exploit, the rich behavior of complex quantum systems. Combining expertise in
+computer science, engineering, and physics, our team is addressing the grand challenge of
+robustly simulating classically intractable quantum systems of practical interest and verifying
+correctness of the simulation result. We will meet this challenge by exploring the theoretical
+foundations of quantum algorithms and error correction in conjunction with experimental
+implementations of reconfigurable quantum simulators on four leading hardware platforms:
+trapped ions, arrays of Rydberg atoms, quantum photonics with solid‐state defects, and
+superconducting circuits. Three major research challenges will study verifying simulations, the
+interaction of simulators with environments, and the development of scalable quantum
+simulators for science and technology. We will also engage the broader research community with
+events including summer schools and a new flagship conference on quantum simulation. We will
+create outreach and education programs that engage diverse groups of students in quantum
+science, introduce cross‐disciplinary undergraduate specializations in quantum information, and
+provide quantum information training for postgraduates and professionals.
+
+<a id="ac_bio"></a>**Bio:** Andrew Childs, co-director of QuICS, is a professor in the Department of Computer Science and
+the Institute for Advanced Computer Studies (UMIACS). He is also the director of the NSF
+Quantum Leap Challenge Institute for Robust Quantum Simulation.
+Childs's research interests are in the theory of quantum information processing, especially
+quantum algorithms. He has explored the computational power of quantum walk, providing an
+example of exponential speedup, demonstrating computational universality, and constructing
+algorithms for problems including search and formula evaluation. Childs has also developed fast
+quantum algorithms for simulating Hamiltonian dynamics. His other areas of interest include
+quantum query complexity and quantum algorithms for algebraic problems.
+Before coming to UMD, Childs was a DuBridge Postdoctoral Scholar at Caltech from 2004-2007
+and a faculty member in Combinatorics & Optimization and the Institute for Quantum
+Computing at the University of Waterloo from 2007-2014. Childs received his doctorate in
+physics from MIT in 2004.
+  
+## <a id="sc">Susan Clark - _The Quantum Scientific Computing Open User Testbed_</a>
+
+<a id="ac_bio"></a>**Bio:** Susan Clark is currently the PI of the DOE Office of Science ASCR funded
+program QSCOUT (Quantum Scientific Computing Open User Testbed) which is
+a small quantum processor based on trapped ions for the broader scientific
+community to use housed at Sandia National Labs. Throughout her career she
+has worked on a variety of qubit systems, including trapped-ions, gate-defined
+quantum dots in Silicon, and donor impurities in semiconductors.
+
   
 ## <a id="pl">Peter Lindstrom - _ZFP: Compressed Floating-Point Arrays for High-Performance Computing_</a>
   
