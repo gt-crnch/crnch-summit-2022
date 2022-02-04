@@ -105,3 +105,12 @@ two start-up companies, and founder of the IEEE Conference on Electrical Design 
 Advanced Packaging and Systems (EDAPS), a premier conference sponsored by the IEEE
 Electronics Packaging Society (EPS). He is an IEEE Fellow and has served as the
 Distinguished Lecturer for the IEEE Electromagnetic Compatibility (EMC) society.
+  
+# Friday, February 4th, 2022
+
+## <a id="pl">Peter Lindstrom - _ZFP: Compressed Floating-Point Arrays for High-Performance Computing_</a>
+  
+<a id="pl_ab"></a>**Abstract:** Recent trends in high‐performance computing point to increasingly plentiful and cheap compute cycles, with performance and power usage dominated by data movement.  If compute cores cannot be fed data quickly enough, they will simply sit idly.  This alarming trend has reinvigorated research into more economic number formats, like posits and bfloats, and the use of mixed‐precision computations to avoid moving unnecessary bits of data, albeit with limited performance gains.  To further reduce data volumes, we propose using otherwise idle compute cycles to compress the data that has to be moved throughout the memory hierarchy: between RAM and registers, between CPU and GPU, between compute nodes, and between main memory and disk.  This talk will give an overview of ZFP, a compressed number format for multidimensional floating‐point arrays that supports high‐speed random‐access reads and writes on demand.  By eliminating significant redundancy in data from numerical applications, we show that memory footprint and bandwidth can be reduced by 1‐2 orders of magnitude with acceptable loss in accuracy.  Conversely, using similar storage as conventional floating point, ZFP allows increasing the accuracy of numerical computations by a factor of one 
+million or more.
+  
+<a id="pl_bio"></a>**Bio:** Peter Lindstrom is a Computer Scientist in the Center for Applied Scientific Computing at Lawrence Livermore National Laboratory.  His research focuses on data compression, scientific visualization, and scientific computing.  Peter earned a Ph.D. in Computer Science from Georgia Institute of Technology in 2000 and holds B.S. degrees in Computer Science, Mathematics, and Physics from Elon University.  He is the chief architect of the fpzip and zfp floating‐point compressors and leads several ongoing projects, including the zfp data compression effort as part of the DOE Exascale Computing Project. 
