@@ -110,6 +110,8 @@ Distinguished Lecturer for the IEEE Electromagnetic Compatibility (EMC) society.
   
 ## <a id="ki">Koji Inoue - _Towards Extremely High-Speed, Low-Power Cryogenic Superconductor Computing_</a>
 
+![image](https://user-images.githubusercontent.com/5454098/152581462-68edeca1-e246-42c1-ae0a-e3fabaad3e55.png)
+
 <a id="ki_ab"></a>**Abstract:** Moore’s Law, doubling the number of transistors in a chip every two years, has so far contributed to the evolution of computer systems. Unfortunately, we cannot expect sustainable transistor shrinking anymore, marking the beginning of the so-called post-Moore era. Therefore, it has become essential to explore emerging devices, and superconductor single-flux-quantum (SFQ) logic that operates in a 4.2-kelvin environment is a promising candidate. Josephson junctions (JJs) are used as switching elements in SFQ logic to compose a superconductor ring (SFQ ring) that can store (or trap) and transfer a single magnetic flux quantum. It fundamentally operates with the voltage pulse-driven nature that makes it possible to achieve extremely low-latency and low-energy JJ switching. This talk shares the history of our SFQ Research, e.g., revisiting microarchitecture and demonstrating over 30 GHz microprocessor and AI accelerator designs. Then, the role of computer architecture for such emerging device computing is discussed.
   
 <a id="ki_bio"></a>**Bio:** Koji Inoue is a professor of Department of Advanced Information Technology at Kyushu University, Japan. His current broader research interests are in computer architecture, IoT platform, and cyber-physical systems. Currently his driving researches target emerging devices for superconductor computing, nanophotonic computing, and quantum computing. He served as a general chair of many conferences, including the IEEE/ACM International Symposium on Microarchitecture (MICRO) 2018, the International Forum on Embedded MPSoC and Multicore (MPSoC) 2011, and the International Symposium on Low Power Electronics and Design (ISLPED) 2011.  He received his PhD in Computer Science and Communication Engineering from Kyushu University in 2001.  He also joined Halo LSI Design & Technology, Inc., NY, as a circuit designer in 1999.
@@ -126,6 +128,8 @@ Among Prof. Yu’s honors, he was a recipient of NSF Faculty Early CAREER Award 
 
 ## <a id="ac">Andrew Childs - _Overview of the NSF Quantum Leap Challenge Institute for Robust Quantum Simulation_</a>
 
+![image](https://user-images.githubusercontent.com/5454098/152580392-cbfb919d-60ea-4bcf-8516-8339f1db1b90.png) 
+ 
 <a id="ac_ab"></a>**Abstract:** The Institute for Robust Quantum Simulation will use quantum simulation to gain insight into,
 and thereby exploit, the rich behavior of complex quantum systems. Combining expertise in
 computer science, engineering, and physics, our team is addressing the grand challenge of
@@ -157,6 +161,8 @@ Computing at the University of Waterloo from 2007-2014. Childs received his doct
 physics from MIT in 2004.
   
 ## <a id="sc">Susan Clark - _The Quantum Scientific Computing Open User Testbed_</a>
+  
+![image](https://user-images.githubusercontent.com/5454098/152580436-94db97ed-013f-45d9-9759-543e889d8020.png)
 
 <a id="sc_bio"></a>**Bio:** Susan Clark is currently the PI of the DOE Office of Science ASCR funded
 program QSCOUT (Quantum Scientific Computing Open User Testbed) which is
@@ -166,6 +172,8 @@ has worked on a variety of qubit systems, including trapped-ions, gate-defined
 quantum dots in Silicon, and donor impurities in semiconductors.
 
 ## <a id="sc">Spencer Bryngleson - _Quantum Computing for Continuum Mechanics_</a>
+  
+![image](https://user-images.githubusercontent.com/5454098/152580534-9fc67ad8-0364-49f2-bffc-71e662abb256.png)
     
 <a id="sb_ab"></a>**Abstract:** Computational fluid dynamics simulations use about 20% of all public HPC resources
 (conservatively). These simulations are expensive, both in node hours and dollars. They are also
@@ -188,6 +196,8 @@ develops models, fast numerics, and scalable software for problems in health and
 defense.
 
 ## <a id="pl">Peter Lindstrom - _ZFP: Compressed Floating-Point Arrays for High-Performance Computing_</a>
+  
+![image](https://user-images.githubusercontent.com/5454098/152581355-6db329d6-9b33-4119-bf55-c64ecf6aa1e3.png)
   
 <a id="pl_ab"></a>**Abstract:** Recent trends in high‐performance computing point to increasingly plentiful and cheap compute cycles, with performance and power usage dominated by data movement.  If compute cores cannot be fed data quickly enough, they will simply sit idly.  This alarming trend has reinvigorated research into more economic number formats, like posits and bfloats, and the use of mixed‐precision computations to avoid moving unnecessary bits of data, albeit with limited performance gains.  To further reduce data volumes, we propose using otherwise idle compute cycles to compress the data that has to be moved throughout the memory hierarchy: between RAM and registers, between CPU and GPU, between compute nodes, and between main memory and disk.  This talk will give an overview of ZFP, a compressed number format for multidimensional floating‐point arrays that supports high‐speed random‐access reads and writes on demand.  By eliminating significant redundancy in data from numerical applications, we show that memory footprint and bandwidth can be reduced by 1‐2 orders of magnitude with acceptable loss in accuracy.  Conversely, using similar storage as conventional floating point, ZFP allows increasing the accuracy of numerical computations by a factor of one 
 million or more.
