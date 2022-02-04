@@ -158,14 +158,35 @@ physics from MIT in 2004.
   
 ## <a id="sc">Susan Clark - _The Quantum Scientific Computing Open User Testbed_</a>
 
-<a id="ac_bio"></a>**Bio:** Susan Clark is currently the PI of the DOE Office of Science ASCR funded
+<a id="sc_bio"></a>**Bio:** Susan Clark is currently the PI of the DOE Office of Science ASCR funded
 program QSCOUT (Quantum Scientific Computing Open User Testbed) which is
 a small quantum processor based on trapped ions for the broader scientific
 community to use housed at Sandia National Labs. Throughout her career she
 has worked on a variety of qubit systems, including trapped-ions, gate-defined
 quantum dots in Silicon, and donor impurities in semiconductors.
 
+## <a id="sc">Spencer Bryngleson - _Quantum Computing for Continuum Mechanics_</a>
+    
+<a id="sb_ab"></a>**Abstract:** Computational fluid dynamics simulations use about 20% of all public HPC resources
+(conservatively). These simulations are expensive, both in node hours and dollars. They are also
+inefficient: A staggering quantity of the marshaled computational resources are required to
+represent the effects of microscopically small features that accumulate to have macroscopic
+effects. Computational models help elide this cascade of scales, though fully‐resolved simulations
+are still required for engineering health, defense, and energy applications. These concerns
+triggered a call‐to‐arms for computational scientists, who are investigating ever novel
+architectures for this purpose. This talk comes to you via a part domain‐expert, part
+computational‐scientist, and epsilon quantum expert. In this context, a first‐take on tackling CFD
+problem via quantum computing is discussed. A quantum analog to the lattice Boltzmann
+algorithm is presented as a step towards meaningful quantum computation for fluid dynamics.
   
+<a id="sb_bio"></a>**Bio:** Spencer Bryngelson joined the School of Computational Science and Engineering at
+Georgia Tech in 2021. He has been a senior postdoc at Caltech, a visiting researcher at
+MIT, and a postdoc at the Center for Exascale Simulation of Plasma‐Coupled
+Combustion. He received his Ph.D. in 2017 from UIUC and his B.S. in 2013 from the
+University of Michigan. Spencerʹs research group, Computational Physics @ GT,
+develops models, fast numerics, and scalable software for problems in health and
+defense.
+
 ## <a id="pl">Peter Lindstrom - _ZFP: Compressed Floating-Point Arrays for High-Performance Computing_</a>
   
 <a id="pl_ab"></a>**Abstract:** Recent trends in high‐performance computing point to increasingly plentiful and cheap compute cycles, with performance and power usage dominated by data movement.  If compute cores cannot be fed data quickly enough, they will simply sit idly.  This alarming trend has reinvigorated research into more economic number formats, like posits and bfloats, and the use of mixed‐precision computations to avoid moving unnecessary bits of data, albeit with limited performance gains.  To further reduce data volumes, we propose using otherwise idle compute cycles to compress the data that has to be moved throughout the memory hierarchy: between RAM and registers, between CPU and GPU, between compute nodes, and between main memory and disk.  This talk will give an overview of ZFP, a compressed number format for multidimensional floating‐point arrays that supports high‐speed random‐access reads and writes on demand.  By eliminating significant redundancy in data from numerical applications, we show that memory footprint and bandwidth can be reduced by 1‐2 orders of magnitude with acceptable loss in accuracy.  Conversely, using similar storage as conventional floating point, ZFP allows increasing the accuracy of numerical computations by a factor of one 
